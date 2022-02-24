@@ -53,10 +53,6 @@ p {
     line-height: 16px;
 }
 
-.nav-item {
-    padding: 1rem;
-}
-
 .hero {
     display: flex;
     flex-direction: row;

@@ -196,6 +196,10 @@
         line-height: 20px;
     }
 
+    .nav-item {
+        padding: 1rem;
+    }
+
     .navbar-custom {
         font-size: 14px;
         line-height: 20px;
